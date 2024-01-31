@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="utf-8">
+    <title>Accueil - Caribe</title>
+</head>
+
+<body>
+    <img src="images/logo.png" alt="Logo Robbie Lens">
+    <a href="a-propos.html">ÀCaribe </a>
+    <h1>Photographie</h1>
+    <p>
+        lorem  
+    </p>
+    <img src="images/photo.png" alt="Photographie">
+    <img src="images/victoria.png" alt="Portrait de la photographe victoria">
+    <img src="images/montana.png" alt="vue par montana">
+    <a target="_blank" href="https://twitter.com/">
+        <img src="images/twitter.png" alt="Logo Twitter">
+    </a>
+    <a target="_blank" href="https://www.instagram.com/">
+        <img src="images/instagram.png" alt="Logo Instagram">
+    </a>
+</body>
+
+</html>
